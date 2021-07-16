@@ -85,7 +85,7 @@
   },
   "dependencies": {
     "@wordpress/block-editor": "^3.6.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "react-twitter-embed": "^2.0.8"
   }
 }
